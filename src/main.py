@@ -2,8 +2,6 @@
 import argparse
 from video_image_downloader import VideoImageDownloader
 
-
-
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='A tool to download frames of videos')
