@@ -13,4 +13,4 @@ A tool to download all the frames of some video so you can meme that specific mo
 1. start and stop time
 2. validate output_dir argument
 3. support for local videos
-4 .try/add support for other websites
+4. try/add support for other websites
